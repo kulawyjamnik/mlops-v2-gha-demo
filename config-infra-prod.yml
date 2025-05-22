@@ -24,11 +24,11 @@ variables:
 
   # For pipeline reference
   resource_group: ResourceGroup1
-  aml_workspace: azuremlcr51562767
-  application_insights: Azuremlws51562767
-  key_vault: azuremlws515627393352710
-  container_registry: azuremlws515623962582847
-  storage_account: azuremlws515624717483542
+  aml_workspace: Azuremlws51562767
+  application_insights: azuremlws515627393352710
+  key_vault: azuremlws515625904026190
+  container_registry: azuremlcr51562767
+  storage_account: azuremlws515623962582847
 
   # For terraform reference
   terraform_version: 0.14.7
